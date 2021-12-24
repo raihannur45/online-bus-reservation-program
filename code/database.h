@@ -86,7 +86,6 @@ void input_database(){	//fungsi gabungan untuk menginput database trayek bus dan
 	insert_akun("admin","admin","",0);
 	//input data akun pengguna
 	insert_akun("raihannur45","raihan123", "Raihan Nur", 1000000);
-	insert_akun("fauzandr","fauzan123", "Fauzan Dwiputro", 2000000);
 	//input database trayek bus
 	insert_bus("Bekasi", "Surabaya", "Ekonomi", "08.00",  "19.00", 7, 450000);
 	insert_bus("Bekasi", "Surabaya", "Ekonomi", "12.00",  "23.00", 7, 450000);
